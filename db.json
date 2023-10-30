@@ -41,11 +41,11 @@
     },
     {
       "id": 4,
-      "hospitalname": "Sara Rodrigues",
+      "name": "Sara Rodrigues",
       "age": 22,
       "bloodtype": "O+",
       "hospital": {
-        "name": "Hospital Infantil",
+        "hospitalname": "Hospital Infantil",
         "location": {
           "latitude": -15.594434,
           "longitude": -56.095739
@@ -127,6 +127,32 @@
         "location": {
           "latitude": -15.600858,
           "longitude": -56.101618
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Lucas Santos",
+      "age": 25,
+      "bloodtype": "A-",
+      "hospital": {
+        "hospitalname": "Hospital da Criança",
+        "location": {
+          "latitude": -15.598722,
+          "longitude": -56.096295
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Isabela Alves",
+      "age": 33,
+      "bloodtype": "B-",
+      "hospital": {
+        "hospitalname": "Hospital Metropolitano",
+        "location": {
+          "latitude": -15.605437,
+          "longitude": -56.093487
         }
       }
     }
