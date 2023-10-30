@@ -1,160 +1,514 @@
 {
-  "patients": [
+  "products": [
     {
       "id": 1,
-      "name": "João da Silva",
-      "age": 30,
-      "bloodtype": "A+",
-      "hospital": {
-        "hospitalname": "Hospital Universitário Júlio Müller",
-        "location": {
-          "latitude": -15.594672,
-          "longitude": -56.110928
-        }
-      }
+      "category": "Mouse",
+      "name": "Logitech MX Master 3s",
+      "price": 49.99,
+      "discount": 10,
+      "average_rating": 4.75,
+      "available_for_delivery": true,
+      "quantity_sold": 100,
+      "description": "A high-precision gamer mouse with customizable RGB lights.",
+      "images": [
+        "image_url_mouse1.jpg",
+        "image_url_mouse2.jpg",
+        "image_url_mouse3.jpg",
+        "image_url_mouse4.jpg"
+      ]
     },
     {
       "id": 2,
-      "name": "Carlos Pereira",
-      "age": 40,
-      "bloodtype": "B+",
-      "hospital": {
-        "hospitalname": "Hospital Santa Rosa",
-        "location": {
-          "latitude": -15.593685,
-          "longitude": -56.108366
-        }
-      }
+      "category": "Mouse",
+      "name": "Logitech Pro X Superlight",
+      "price": 39.99,
+      "discount": 5,
+      "average_rating": 4.5,
+      "available_for_delivery": true,
+      "quantity_sold": 80,
+      "description": "A gamer mouse with high-precision optical sensor.",
+      "images": [
+        "image_url_mouse5.jpg",
+        "image_url_mouse6.jpg",
+        "image_url_mouse7.jpg",
+        "image_url_mouse8.jpg"
+      ]
     },
     {
       "id": 3,
-      "name": "Pedro Santos",
-      "age": 28,
-      "bloodtype": "A+",
-      "hospital": {
-        "hospitalname": "Hospital Geral de Cuiabá",
-        "location": {
-          "latitude": -15.60128,
-          "longitude": -56.097863
-        }
-      }
+      "category": "Mouse",
+      "name": "Logitech M720 Triathlon",
+      "price": 19.99,
+      "discount": 15,
+      "average_rating": 4.0,
+      "available_for_delivery": true,
+      "quantity_sold": 60,
+      "description": "An ergonomic wireless mouse.",
+      "images": [
+        "image_url_mouse9.jpg",
+        "image_url_mouse10.jpg",
+        "image_url_mouse11.jpg",
+        "image_url_mouse12.jpg"
+      ]
     },
     {
       "id": 4,
-      "name": "Sara Rodrigues",
-      "age": 22,
-      "bloodtype": "O+",
-      "hospital": {
-        "hospitalname": "Hospital Infantil",
-        "location": {
-          "latitude": -15.594434,
-          "longitude": -56.095739
-        }
-      }
+      "category": "Mouse",
+      "name": "Hyperx Pulsefire Dart",
+      "price": 14.99,
+      "discount": null,
+      "average_rating": 4.25,
+      "available_for_delivery": true,
+      "quantity_sold": 75,
+      "description": "A compact mouse ideal for travel.",
+      "images": [
+        "image_url_mouse13.jpg",
+        "image_url_mouse14.jpg",
+        "image_url_mouse15.jpg",
+        "image_url_mouse16.jpg"
+      ]
     },
     {
       "id": 5,
-      "name": "Luisa Costa",
-      "age": 60,
-      "bloodtype": "B-",
-      "hospital": {
-        "hospitalname": "Hospital Jardim Cuiabá",
-        "location": {
-          "latitude": -15.599011,
-          "longitude": -56.10417
-        }
-      }
+      "category": "Mouse",
+      "name": "Logitech G305 Lightspeed",
+      "price": 29.99,
+      "discount": 10,
+      "average_rating": 4.4,
+      "available_for_delivery": true,
+      "quantity_sold": 50,
+      "description": "An ergonomic mouse with hand support.",
+      "images": [
+        "image_url_mouse17.jpg",
+        "image_url_mouse18.jpg",
+        "image_url_mouse19.jpg",
+        "image_url_mouse20.jpg"
+      ]
     },
     {
       "id": 6,
-      "name": "Maria Silva",
-      "age": 35,
-      "bloodtype": "AB-",
-      "hospital": {
-        "hospitalname": "Hospital São Matheus",
-        "location": {
-          "latitude": -15.584399,
-          "longitude": -56.087784
-        }
-      }
+      "category": "Mouse",
+      "name": "Razer Deathadder V2 Pro",
+      "price": 49.99,
+      "discount": 15,
+      "average_rating": 4.8,
+      "available_for_delivery": true,
+      "quantity_sold": 25,
+      "description": "An ergonomic mouse with hand support.",
+      "images": [
+        "image_url_mouse17.jpg",
+        "image_url_mouse18.jpg",
+        "image_url_mouse19.jpg",
+        "image_url_mouse20.jpg"
+      ]
     },
     {
       "id": 7,
-      "name": "Ricardo Mendes",
-      "age": 45,
-      "bloodtype": "O+",
-      "hospital": {
-        "hospitalname": "Hospital Municipal de Cuiabá",
-        "location": {
-          "latitude": -15.594265,
-          "longitude": -56.100344
-        }
-      }
+      "category": "Keyboard",
+      "name": "Logitech MX Keys Mini",
+      "price": 79.99,
+      "discount": null,
+      "average_rating": 4.0,
+      "available_for_delivery": false,
+      "quantity_sold": 50,
+      "description": "A mechanical keyboard with Cherry MX switches for comfortable typing.",
+      "images": [
+        "image_url_keyboard1.jpg",
+        "image_url_keyboard2.jpg",
+        "image_url_keyboard3.jpg",
+        "image_url_keyboard4.jpg"
+      ]
     },
     {
       "id": 8,
-      "name": "Ana Ferreira",
-      "age": 28,
-      "bloodtype": "A-",
-      "hospital": {
-        "hospitalname": "Hospital São Benedito",
-        "location": {
-          "latitude": -15.592032,
-          "longitude": -56.103917
-        }
-      }
+      "category": "Keyboard",
+      "name": "Logitech MX Keys S",
+      "price": 59.99,
+      "discount": 5,
+      "average_rating": 4.5,
+      "available_for_delivery": true,
+      "quantity_sold": 70,
+      "description": "A wireless keyboard with a compact design and integrated touchpad.",
+      "images": [
+        "image_url_keyboard5.jpg",
+        "image_url_keyboard6.jpg",
+        "image_url_keyboard7.jpg",
+        "image_url_keyboard8.jpg"
+      ]
     },
     {
       "id": 9,
-      "name": "Marcos Almeida",
-      "age": 33,
-      "bloodtype": "B+",
-      "hospital": {
-        "hospitalname": "Hospital Pediátrico de Cuiabá",
-        "location": {
-          "latitude": -15.602367,
-          "longitude": -56.108865
-        }
-      }
+      "category": "Keyboard",
+      "name": "Logitech Pop Keys",
+      "price": 69.99,
+      "discount": 10,
+      "average_rating": 4.2,
+      "available_for_delivery": true,
+      "quantity_sold": 60,
+      "description": "A keyboard with adjustable backlighting for a pleasant typing experience.",
+      "images": [
+        "image_url_keyboard9.jpg",
+        "image_url_keyboard10.jpg",
+        "image_url_keyboard11.jpg",
+        "image_url_keyboard12.jpg"
+      ]
     },
     {
       "id": 10,
-      "name": "Carla Oliveira",
-      "age": 29,
-      "bloodtype": "O+",
-      "hospital": {
-        "hospitalname": "Hemocentro de Cuiabá",
-        "location": {
-          "latitude": -15.600858,
-          "longitude": -56.101618
-        }
-      }
+      "category": "Keyboard",
+      "name": "Logitech MX Mechanical",
+      "price": 49.99,
+      "discount": null,
+      "average_rating": 4.3,
+      "available_for_delivery": true,
+      "quantity_sold": 55,
+      "description": "A compact and lightweight keyboard, perfect for travel.",
+      "images": [
+        "image_url_keyboard13.jpg",
+        "image_url_keyboard14.jpg",
+        "image_url_keyboard15.jpg",
+        "image_url_keyboard16.jpg"
+      ]
     },
     {
       "id": 11,
-      "name": "Lucas Santos",
-      "age": 25,
-      "bloodtype": "A-",
-      "hospital": {
-        "hospitalname": "Hospital da Criança",
-        "location": {
-          "latitude": -15.598722,
-          "longitude": -56.096295
-        }
-      }
+      "category": "Keyboard",
+      "name": "Epomaker TH80",
+      "price": 54.99,
+      "discount": 5,
+      "average_rating": 4.3,
+      "available_for_delivery": true,
+      "quantity_sold": 60,
+      "description": "A compact wireless keyboard with long battery life.",
+      "images": [
+        "image_url_keyboard21.jpg",
+        "image_url_keyboard22.jpg",
+        "image_url_keyboard23.jpg",
+        "image_url_keyboard24.jpg"
+      ]
     },
     {
       "id": 12,
-      "name": "Isabela Alves",
-      "age": 33,
-      "bloodtype": "B-",
-      "hospital": {
-        "hospitalname": "Hospital Metropolitano",
-        "location": {
-          "latitude": -15.605437,
-          "longitude": -56.093487
-        }
-      }
+      "category": "Keyboard",
+      "name": "Redragon Gamer Ashe",
+      "price": 89.99,
+      "discount": 10,
+      "average_rating": 4.7,
+      "available_for_delivery": true,
+      "quantity_sold": 70,
+      "description": "A mechanical keyboard designed for professional gamers.",
+      "images": [
+        "image_url_keyboard17.jpg",
+        "image_url_keyboard18.jpg",
+        "image_url_keyboard19.jpg",
+        "image_url_keyboard20.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Headphones",
+      "name": "Logitech Zone Vibe 100 ",
+      "price": 79.99,
+      "discount": 15,
+      "average_rating": 4.5,
+      "available_for_delivery": true,
+      "quantity_sold": 120,
+      "description": "Bluetooth headphones with active noise cancellation.",
+      "images": [
+        "image_url_headphone1.jpg",
+        "image_url_headphone2.jpg",
+        "image_url_headphone3.jpg",
+        "image_url_headphone4.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Headphones",
+      "name": "Logitech Pro X 2 Lightspeed",
+      "price": 59.99,
+      "discount": 10,
+      "average_rating": 4.2,
+      "available_for_delivery": true,
+      "quantity_sold": 90,
+      "description": "Stereo headphones with high sound quality.",
+      "images": [
+        "image_url_headphone5.jpg",
+        "image_url_headphone6.jpg",
+        "image_url_headphone7.jpg",
+        "image_url_headphone8.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Headphones",
+      "name": "Logitech Astro A30",
+      "price": 49.99,
+      "discount": null,
+      "average_rating": 4.0,
+      "available_for_delivery": true,
+      "quantity_sold": 80,
+      "description": "Sweat and water-resistant sport headphones.",
+      "images": [
+        "image_url_headphone9.jpg",
+        "image_url_headphone10.jpg",
+        "image_url_headphone11.jpg",
+        "image_url_headphone12.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Headphones",
+      "name": "Logitech Zone Wired Earbuds",
+      "price": 29.99,
+      "discount": 5,
+      "average_rating": 4.3,
+      "available_for_delivery": true,
+      "quantity_sold": 70,
+      "description": "Headphones with a microphone for high-quality calls.",
+      "images": [
+        "image_url_headphone13.jpg",
+        "image_url_headphone14.jpg",
+        "image_url_headphone15.jpg",
+        "image_url_headphone16.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Headphones",
+      "name": "Hyperx Cloud Stinger",
+      "price": 39.99,
+      "discount": null,
+      "average_rating": 4.1,
+      "available_for_delivery": true,
+      "quantity_sold": 60,
+      "description": "Stylish stereo headphones with an elegant design.",
+      "images": [
+        "image_url_headphone17.jpg",
+        "image_url_headphone18.jpg",
+        "image_url_headphone19.jpg",
+        "image_url_headphone20.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Headphones",
+      "name": "Razer Kraken X",
+      "price": 69.99,
+      "discount": 10,
+      "average_rating": 4.4,
+      "available_for_delivery": true,
+      "quantity_sold": 65,
+      "description": "Bluetooth headphones with long battery life.",
+      "images": [
+        "image_url_headphone21.jpg",
+        "image_url_headphone22.jpg",
+        "image_url_headphone23.jpg",
+        "image_url_headphone24.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Mouse Pads",
+      "name": "Logitech Powerplay",
+      "price": 19.99,
+      "discount": 5,
+      "average_rating": 4.6,
+      "available_for_delivery": true,
+      "quantity_sold": 150,
+      "description": "Extra-large mouse pad for gamers with high-precision surface.",
+      "images": [
+        "image_url_mousepad1.jpg",
+        "image_url_mousepad2.jpg",
+        "image_url_mousepad3.jpg",
+        "image_url_mousepad4.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Mouse Pads",
+      "name": "Logitech Desk Mat",
+      "price": 14.99,
+      "discount": null,
+      "average_rating": 4.3,
+      "available_for_delivery": true,
+      "quantity_sold": 120,
+      "description": "Ergonomic mouse pad with wrist support, ideal for long work sessions.",
+      "images": [
+        "image_url_mousepad5.jpg",
+        "image_url_mousepad6.jpg",
+        "image_url_mousepad7.jpg",
+        "image_url_mousepad8.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Mouse Pads",
+      "name": "Logitech G740",
+      "price": 29.99,
+      "discount": 10,
+      "average_rating": 4.7,
+      "available_for_delivery": true,
+      "quantity_sold": 90,
+      "description": "Mouse pad with customizable RGB lighting for gamers.",
+      "images": [
+        "image_url_mousepad9.jpg",
+        "image_url_mousepad10.jpg",
+        "image_url_mousepad11.jpg",
+        "image_url_mousepad12.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Mouse Pads",
+      "name": "Logitech Mousepad Studio Series",
+      "price": 9.99,
+      "discount": 5,
+      "average_rating": 4.0,
+      "available_for_delivery": true,
+      "quantity_sold": 80,
+      "description": "Compact and portable mouse pad for use anywhere.",
+      "images": [
+        "image_url_mousepad13.jpg",
+        "image_url_mousepad14.jpg",
+        "image_url_mousepad15.jpg",
+        "image_url_mousepad16.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Mouse Pads",
+      "name": "Force One Skyhawk Dark",
+      "price": 24.99,
+      "discount": null,
+      "average_rating": 4.5,
+      "available_for_delivery": true,
+      "quantity_sold": 70,
+      "description": "High-quality mouse pad for professional use.",
+      "images": [
+        "image_url_mousepad17.jpg",
+        "image_url_mousepad18.jpg",
+        "image_url_mousepad19.jpg",
+        "image_url_mousepad20.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Mouse Pads",
+      "name": "Force One Skyhawk Snow",
+      "price": 12.99,
+      "discount": null,
+      "average_rating": 4.2,
+      "available_for_delivery": true,
+      "quantity_sold": 60,
+      "description": "Mouse pad with custom print, adds style to your workspace.",
+      "images": [
+        "image_url_mousepad21.jpg",
+        "image_url_mousepad22.jpg",
+        "image_url_mousepad23.jpg",
+        "image_url_mousepad24.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Monitor",
+      "name": "Dell S2421HN",
+      "price": 199.99,
+      "discount": 10,
+      "average_rating": 4.5,
+      "available_for_delivery": true,
+      "quantity_sold": 150,
+      "description": "24-inch LED monitor with high resolution and image quality.",
+      "images": [
+        "image_url_monitor1.jpg",
+        "image_url_monitor2.jpg",
+        "image_url_monitor3.jpg",
+        "image_url_monitor4.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "Monitor",
+      "name": "Dell P2422H",
+      "price": 399.99,
+      "discount": null,
+      "average_rating": 4.7,
+      "available_for_delivery": true,
+      "quantity_sold": 120,
+      "description": "34-inch UltraWide monitor for an immersive experience.",
+      "images": [
+        "image_url_monitor5.jpg",
+        "image_url_monitor6.jpg",
+        "image_url_monitor7.jpg",
+        "image_url_monitor8.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "Monitor",
+      "name": "Dell P2723QE",
+      "price": 259.99,
+      "discount": 5,
+      "average_rating": 4.6,
+      "available_for_delivery": true,
+      "quantity_sold": 130,
+      "description": "27-inch curved monitor with high refresh rates.",
+      "images": [
+        "image_url_monitor9.jpg",
+        "image_url_monitor10.jpg",
+        "image_url_monitor11.jpg",
+        "image_url_monitor12.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "Monitor",
+      "name": "Dell S3422DWG",
+      "price": 499.99,
+      "discount": 15,
+      "average_rating": 4.8,
+      "available_for_delivery": true,
+      "quantity_sold": 100,
+      "description": "32-inch 4K monitor for incredible resolution.",
+      "images": [
+        "image_url_monitor13.jpg",
+        "image_url_monitor14.jpg",
+        "image_url_monitor15.jpg",
+        "image_url_monitor16.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "Monitor",
+      "name": "Dell S3222DGM",
+      "price": 349.99,
+      "discount": 10,
+      "average_rating": 4.7,
+      "available_for_delivery": true,
+      "quantity_sold": 110,
+      "description": "27-inch gamer monitor with high refresh rate and response time.",
+      "images": [
+        "image_url_monitor17.jpg",
+        "image_url_monitor18.jpg",
+        "image_url_monitor19.jpg",
+        "image_url_monitor20.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Monitor",
+      "name": "Dell AW2524HF",
+      "price": 149.99,
+      "discount": null,
+      "average_rating": 4.4,
+      "available_for_delivery": true,
+      "quantity_sold": 140,
+      "description": "22-inch LCD monitor with a compact and budget-friendly design.",
+      "images": [
+        "image_url_monitor21.jpg",
+        "image_url_monitor22.jpg",
+        "image_url_monitor23.jpg",
+        "image_url_monitor24.jpg"
+      ]
     }
   ]
 }
