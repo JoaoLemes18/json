@@ -16,7 +16,7 @@
         "https://s3-alpha-sig.figma.com/img/0b23/bafd/a5fd55544a6265d1b34237d4fda0c792?Expires=1699833600&Signature=q2UWkMKy5MetoTnndwo8FCEYPKeJsWyufRy0qjyLcE4pb6d49MWKiC6TNLcXd7kGV0e8tJ~KkUsnGSg8FF30mv~fZRvBwnMXJ~LnBQ2CQwoS9CxDFvl2euFaVUukwQPFKWYTLTiKMsyqEf11xxkdv5lFRFEWzX4dcdg6n-rC4QPY7b7ZBnh-9e10CBwHis3p763pqdphS61sgPynU1i2mO5mxGanoEGOYgKpqBg11H5GXi6YNOwu0RPozFlLSqd77QBcUAQ-N1ErVM0v6u~~HWsPr9B622zPDmuGwHXEW6705cQt6h3PsiPyi~C31pR5YspNf9oICwAwOJkBgbTyYg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
         "https://s3-alpha-sig.figma.com/img/cbe6/9553/f1da3497ba2eb511dfdf894964e88945?Expires=1699833600&Signature=G857dpdj6ttbJPRq4B7NwSjfWbchMvGufkVtG4rTMGabMJuoQv~HPgQINycZ6goTo9M7jCeJRfvyuUYijw20RYboUUEhvIuz-J4a7~F2ZurQbfXj~mlZW8rjn7SSrf7MWnBt2sa7D3nTHwNDgPes5s5vux451dMGhvU1hV-IIrn-QfgWiX4WcyAS2u2hAyKGH6qcJhGYE-nkIlbEJ8KRstn~2i2hs~bGzJH5OHBz3CBb1e92Gp9Y0ViFVHlwyLcg~6H3rKl8MogO11iPR3Ol5~4tUN4R6ow13uiswXQi2PeiofZnRw3V77vhBPgEtTNfuD495pP~XwzsXueqatmsVg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
       ],
-      "category_image": "nova_url_da_imagem.jpg"
+      "category_image": "https://fsw-store.s3.sa-east-1.amazonaws.com/mouses.png"
     },
     {
       "id": 2,
