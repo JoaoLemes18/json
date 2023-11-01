@@ -7,7 +7,6 @@
       "price": 49.99,
       "discount": 10,
       "average_rating": 4.75,
-
       "description": "A high-precision gamer mouse with customizable RGB lights.",
       "image": [
         "https://s3-alpha-sig.figma.com/img/01b9/0321/6b09d4df5e5f667e7d4e2f61d9046f05?Expires=1699833600&Signature=qlwGWbaGquO0obz5WIdB1OzbXIa8yuceIvRd6H2ByPYI8x-0LgqCfvDqygGeSPI5zMeVuUjK3W1tpxKszSfN-XBY1K8FKQzzrX0WqQwsaQ0SabhZ5hFsMojMPWIIplnh85cw13J~CD8-KkfMKzszNmGdiRBE0C4rtQ1r3x2n5ZH5uYkMxu8TYMbOMpAIhnDm~UHsgUxZj~zDlJjFu~vZSGZzVEHSF2YLYrTueKRpcC748f599uJlor1VyKb9Jx~8SiopHJW5HDAYDryqSnd-YkfEtLKFq0Ptflhy6o9~omOBB3iqFgoN9qGPvhxtGywC3tfZDlS7oEGLoU5B-KKALA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
@@ -24,7 +23,6 @@
       "price": 39.99,
       "discount": 5,
       "average_rating": 4.5,
-
       "description": "A gamer mouse with high-precision optical sensor.",
       "image": [
         "image_url_mouse5.jpg",
@@ -40,7 +38,6 @@
       "price": 19.99,
       "discount": 15,
       "average_rating": 4.0,
-
       "description": "An ergonomic wireless mouse.",
       "image": [
         "image_url_mouse9.jpg",
@@ -56,7 +53,6 @@
       "price": 14.99,
       "discount": null,
       "average_rating": 4.25,
-
       "description": "A compact mouse ideal for travel.",
       "image": [
         "image_url_mouse13.jpg",
@@ -72,7 +68,6 @@
       "price": 29.99,
       "discount": 10,
       "average_rating": 4.4,
-
       "description": "An ergonomic mouse with hand support.",
       "image": [
         "image_url_mouse17.jpg",
@@ -88,7 +83,6 @@
       "price": 49.99,
       "discount": 15,
       "average_rating": 4.8,
-
       "description": "An ergonomic mouse with hand support.",
       "image": [
         "image_url_mouse17.jpg",
@@ -104,7 +98,6 @@
       "price": 79.99,
       "discount": null,
       "average_rating": 4.0,
-
       "description": "A mechanical keyboard with Cherry MX switches for comfortable typing.",
       "image": [
         "image_url_keyboard1.jpg",
@@ -121,7 +114,6 @@
       "price": 59.99,
       "discount": 5,
       "average_rating": 4.5,
-
       "description": "A wireless keyboard with a compact design and integrated touchpad.",
       "image": [
         "image_url_keyboard5.jpg",
@@ -137,7 +129,6 @@
       "price": 69.99,
       "discount": 10,
       "average_rating": 4.2,
-
       "description": "A keyboard with adjustable backlighting for a pleasant typing experience.",
       "image": [
         "image_url_keyboard9.jpg",
@@ -153,7 +144,6 @@
       "price": 49.99,
       "discount": null,
       "average_rating": 4.3,
-
       "description": "A compact and lightweight keyboard, perfect for travel.",
       "image": [
         "image_url_keyboard13.jpg",
@@ -169,7 +159,6 @@
       "price": 54.99,
       "discount": 5,
       "average_rating": 4.3,
-
       "description": "A compact wireless keyboard with long battery life.",
       "image": [
         "image_url_keyboard21.jpg",
@@ -185,7 +174,6 @@
       "price": 89.99,
       "discount": 10,
       "average_rating": 4.7,
-
       "description": "A mechanical keyboard designed for professional gamers.",
       "image": [
         "image_url_keyboard17.jpg",
@@ -201,7 +189,6 @@
       "price": 79.99,
       "discount": 15,
       "average_rating": 4.5,
-
       "description": "Bluetooth headphones with active noise cancellation.",
       "image": [
         "image_url_headphone1.jpg",
@@ -218,7 +205,6 @@
       "price": 59.99,
       "discount": 10,
       "average_rating": 4.2,
-
       "description": "Stereo headphones with high sound quality.",
       "image": [
         "image_url_headphone5.jpg",
@@ -234,7 +220,6 @@
       "price": 49.99,
       "discount": null,
       "average_rating": 4.0,
-
       "description": "Sweat and water-resistant sport headphones.",
       "image": [
         "image_url_headphone9.jpg",
@@ -250,7 +235,6 @@
       "price": 29.99,
       "discount": 5,
       "average_rating": 4.3,
-
       "description": "Headphones with a microphone for high-quality calls.",
       "image": [
         "image_url_headphone13.jpg",
@@ -266,7 +250,6 @@
       "price": 39.99,
       "discount": null,
       "average_rating": 4.1,
-
       "description": "Stylish stereo headphones with an elegant design.",
       "image": [
         "image_url_headphone17.jpg",
@@ -282,7 +265,6 @@
       "price": 69.99,
       "discount": 10,
       "average_rating": 4.4,
-
       "description": "Bluetooth headphones with long battery life.",
       "image": [
         "image_url_headphone21.jpg",
@@ -298,7 +280,6 @@
       "price": 19.99,
       "discount": 5,
       "average_rating": 4.6,
-
       "description": "Extra-large mouse pad for gamers with high-precision surface.",
       "image": [
         "image_url_mousepad1.jpg",
@@ -315,7 +296,6 @@
       "price": 14.99,
       "discount": null,
       "average_rating": 4.3,
-
       "description": "Ergonomic mouse pad with wrist support, ideal for long work sessions.",
       "image": [
         "image_url_mousepad5.jpg",
@@ -331,7 +311,6 @@
       "price": 29.99,
       "discount": 10,
       "average_rating": 4.7,
-
       "description": "Mouse pad with customizable RGB lighting for gamers.",
       "image": [
         "image_url_mousepad9.jpg",
@@ -347,7 +326,6 @@
       "price": 9.99,
       "discount": 5,
       "average_rating": 4.0,
-
       "description": "Compact and portable mouse pad for use anywhere.",
       "image": [
         "image_url_mousepad13.jpg",
@@ -363,7 +341,6 @@
       "price": 24.99,
       "discount": null,
       "average_rating": 4.5,
-
       "description": "High-quality mouse pad for professional use.",
       "image": [
         "image_url_mousepad17.jpg",
@@ -379,7 +356,6 @@
       "price": 12.99,
       "discount": null,
       "average_rating": 4.2,
-
       "description": "Mouse pad with custom print, adds style to your workspace.",
       "image": [
         "image_url_mousepad21.jpg",
@@ -395,7 +371,6 @@
       "price": 199.99,
       "discount": 10,
       "average_rating": 4.5,
-
       "description": "24-inch LED monitor with high resolution and image quality.",
       "image": [
         "image_url_monitor1.jpg",
@@ -412,7 +387,6 @@
       "price": 399.99,
       "discount": null,
       "average_rating": 4.7,
-
       "description": "34-inch UltraWide monitor for an immersive experience.",
       "image": [
         "image_url_monitor5.jpg",
@@ -428,7 +402,6 @@
       "price": 259.99,
       "discount": 5,
       "average_rating": 4.6,
-
       "description": "27-inch curved monitor with high refresh rates.",
       "image": [
         "image_url_monitor9.jpg",
@@ -444,7 +417,6 @@
       "price": 499.99,
       "discount": 15,
       "average_rating": 4.8,
-
       "description": "32-inch 4K monitor for incredible resolution.",
       "image": [
         "image_url_monitor13.jpg",
@@ -460,7 +432,6 @@
       "price": 349.99,
       "discount": 10,
       "average_rating": 4.7,
-
       "description": "27-inch gamer monitor with high refresh rate and response time.",
       "image": [
         "image_url_monitor17.jpg",
@@ -476,7 +447,6 @@
       "price": 149.99,
       "discount": null,
       "average_rating": 4.4,
-
       "description": "22-inch LCD monitor with a compact and budget-friendly design.",
       "image": [
         "image_url_monitor21.jpg",
