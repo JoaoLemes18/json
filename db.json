@@ -8,13 +8,13 @@
       "discount": 10,
       "average_rating": 4.75,
       "description": "A high-precision gamer mouse with customizable RGB lights.",
-      "image": [
+      "imageUrls": [
         "https://s3-alpha-sig.figma.com/img/01b9/0321/6b09d4df5e5f667e7d4e2f61d9046f05?Expires=1699833600&Signature=qlwGWbaGquO0obz5WIdB1OzbXIa8yuceIvRd6H2ByPYI8x-0LgqCfvDqygGeSPI5zMeVuUjK3W1tpxKszSfN-XBY1K8FKQzzrX0WqQwsaQ0SabhZ5hFsMojMPWIIplnh85cw13J~CD8-KkfMKzszNmGdiRBE0C4rtQ1r3x2n5ZH5uYkMxu8TYMbOMpAIhnDm~UHsgUxZj~zDlJjFu~vZSGZzVEHSF2YLYrTueKRpcC748f599uJlor1VyKb9Jx~8SiopHJW5HDAYDryqSnd-YkfEtLKFq0Ptflhy6o9~omOBB3iqFgoN9qGPvhxtGywC3tfZDlS7oEGLoU5B-KKALA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
         "https://s3-alpha-sig.figma.com/img/e8c8/d8a4/62462f9d96239f95328eaf09880d0ab7?Expires=1699833600&Signature=ndM82sEzpCUO9nqDbNb5cTUrwlAUuxtzGSa6I90LW9HySgXKycHFvIp5QCVkt49tgqZMEgnPZfszD1dmDQc4IFThRKbRaJ0XTgbEG~emtHhmGNh-8fq4ET3JIDeEE2-jsPPxF0IvP9xzpsXyOrCKsUKibosP25uhjVoEV5jXA77qaqxohr0fJtIcEsGSTIUnbqWceneAFi~24cRGNAnRIhd1xIlzvEgJMiT7~DoDeZ5KjIOW5Eeu3ObVKlk~pWkPOCTAcYhe9b0oaohJLHmoJfu7hfG1KWNX11c8w4DhUvC~iTXilH0Wt8VE97aD7CRV5ytJ7HQpIvUVe5qbvQzzTQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
         "https://s3-alpha-sig.figma.com/img/0b23/bafd/a5fd55544a6265d1b34237d4fda0c792?Expires=1699833600&Signature=q2UWkMKy5MetoTnndwo8FCEYPKeJsWyufRy0qjyLcE4pb6d49MWKiC6TNLcXd7kGV0e8tJ~KkUsnGSg8FF30mv~fZRvBwnMXJ~LnBQ2CQwoS9CxDFvl2euFaVUukwQPFKWYTLTiKMsyqEf11xxkdv5lFRFEWzX4dcdg6n-rC4QPY7b7ZBnh-9e10CBwHis3p763pqdphS61sgPynU1i2mO5mxGanoEGOYgKpqBg11H5GXi6YNOwu0RPozFlLSqd77QBcUAQ-N1ErVM0v6u~~HWsPr9B622zPDmuGwHXEW6705cQt6h3PsiPyi~C31pR5YspNf9oICwAwOJkBgbTyYg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
         "https://s3-alpha-sig.figma.com/img/cbe6/9553/f1da3497ba2eb511dfdf894964e88945?Expires=1699833600&Signature=G857dpdj6ttbJPRq4B7NwSjfWbchMvGufkVtG4rTMGabMJuoQv~HPgQINycZ6goTo9M7jCeJRfvyuUYijw20RYboUUEhvIuz-J4a7~F2ZurQbfXj~mlZW8rjn7SSrf7MWnBt2sa7D3nTHwNDgPes5s5vux451dMGhvU1hV-IIrn-QfgWiX4WcyAS2u2hAyKGH6qcJhGYE-nkIlbEJ8KRstn~2i2hs~bGzJH5OHBz3CBb1e92Gp9Y0ViFVHlwyLcg~6H3rKl8MogO11iPR3Ol5~4tUN4R6ow13uiswXQi2PeiofZnRw3V77vhBPgEtTNfuD495pP~XwzsXueqatmsVg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
       ],
-      "category_image": "https://fsw-store.s3.sa-east-1.amazonaws.com/mouses.png"
+      "imageUrl": "https://fsw-store.s3.sa-east-1.amazonaws.com/mouses.png"
     },
     {
       "id": 2,
@@ -24,8 +24,8 @@
       "discount": 5,
       "average_rating": 4.5,
       "description": "A gamer mouse with high-precision optical sensor.",
-      "image": [
-        "image_url_mouse5.jpg",
+      "imageUrls": [
+        "https://s3-alpha-sig.figma.com/img/ad31/e811/535c0105bc429c7adea0172eee70eea1?Expires=1699833600&Signature=C1zsgzZo3ZYzoUG9HpRjsxGizJu-KW5R2f4vr7JdGWpmriqD~4tShcN4FOlBmjHCyNn-OKVmuIe78hHz7sdYdWx4-wsyrs5n4VSdc8vLzRARiPujxXYXUlmnpNQfdtZYjyw62Q~-DbohYtoWf282vckbMfRKbywHDisPFQc0wmtoFESg-41iJA4T6ObfEHdzDP94kO3H0wesc4-Y3ZxfwRB1hzBPRJCAPStdqZNVgREkNS0cOd28atb4QTy2rXRHOf3PffNHFZpDmETomaKlQMAIdXtf7gW1NGS2OMwnHODcFG5NiDZIp9Re8N3Jb4w1F5v-H1r-hMx~51qEdTFm~g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
         "image_url_mouse6.jpg",
         "image_url_mouse7.jpg",
         "image_url_mouse8.jpg"
@@ -39,7 +39,7 @@
       "discount": 15,
       "average_rating": 4.0,
       "description": "An ergonomic wireless mouse.",
-      "image": [
+      "imageUrls": [
         "image_url_mouse9.jpg",
         "image_url_mouse10.jpg",
         "image_url_mouse11.jpg",
@@ -54,7 +54,7 @@
       "discount": null,
       "average_rating": 4.25,
       "description": "A compact mouse ideal for travel.",
-      "image": [
+      "imageUrls": [
         "image_url_mouse13.jpg",
         "image_url_mouse14.jpg",
         "image_url_mouse15.jpg",
@@ -69,7 +69,7 @@
       "discount": 10,
       "average_rating": 4.4,
       "description": "An ergonomic mouse with hand support.",
-      "image": [
+      "imageUrls": [
         "image_url_mouse17.jpg",
         "image_url_mouse18.jpg",
         "image_url_mouse19.jpg",
@@ -84,7 +84,7 @@
       "discount": 15,
       "average_rating": 4.8,
       "description": "An ergonomic mouse with hand support.",
-      "image": [
+      "imageUrls": [
         "image_url_mouse17.jpg",
         "image_url_mouse18.jpg",
         "image_url_mouse19.jpg",
@@ -99,13 +99,13 @@
       "discount": null,
       "average_rating": 4.0,
       "description": "A mechanical keyboard with Cherry MX switches for comfortable typing.",
-      "image": [
+      "imageUrls": [
         "image_url_keyboard1.jpg",
         "image_url_keyboard2.jpg",
         "image_url_keyboard3.jpg",
         "image_url_keyboard4.jpg"
       ],
-      "category_image": "nova_url_da_imagem.jpg"
+      "imageUrl": "https://fsw-store.s3.sa-east-1.amazonaws.com/keyboards.png"
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
       "discount": 5,
       "average_rating": 4.5,
       "description": "A wireless keyboard with a compact design and integrated touchpad.",
-      "image": [
+      "imageUrls": [
         "image_url_keyboard5.jpg",
         "image_url_keyboard6.jpg",
         "image_url_keyboard7.jpg",
@@ -130,7 +130,7 @@
       "discount": 10,
       "average_rating": 4.2,
       "description": "A keyboard with adjustable backlighting for a pleasant typing experience.",
-      "image": [
+      "imageUrls": [
         "image_url_keyboard9.jpg",
         "image_url_keyboard10.jpg",
         "image_url_keyboard11.jpg",
@@ -145,7 +145,7 @@
       "discount": null,
       "average_rating": 4.3,
       "description": "A compact and lightweight keyboard, perfect for travel.",
-      "image": [
+      "imageUrls": [
         "image_url_keyboard13.jpg",
         "image_url_keyboard14.jpg",
         "image_url_keyboard15.jpg",
@@ -160,7 +160,7 @@
       "discount": 5,
       "average_rating": 4.3,
       "description": "A compact wireless keyboard with long battery life.",
-      "image": [
+      "imageUrls": [
         "image_url_keyboard21.jpg",
         "image_url_keyboard22.jpg",
         "image_url_keyboard23.jpg",
@@ -175,7 +175,7 @@
       "discount": 10,
       "average_rating": 4.7,
       "description": "A mechanical keyboard designed for professional gamers.",
-      "image": [
+      "imageUrls": [
         "image_url_keyboard17.jpg",
         "image_url_keyboard18.jpg",
         "image_url_keyboard19.jpg",
@@ -190,13 +190,13 @@
       "discount": 15,
       "average_rating": 4.5,
       "description": "Bluetooth headphones with active noise cancellation.",
-      "image": [
+      "imageUrls": [
         "image_url_headphone1.jpg",
         "image_url_headphone2.jpg",
         "image_url_headphone3.jpg",
         "image_url_headphone4.jpg"
       ],
-      "category_image": "nova_url_da_imagem.jpg"
+      "imageUrl": "https://fsw-store.s3.sa-east-1.amazonaws.com/headphones.png"
     },
     {
       "id": 14,
@@ -206,7 +206,7 @@
       "discount": 10,
       "average_rating": 4.2,
       "description": "Stereo headphones with high sound quality.",
-      "image": [
+      "imageUrls": [
         "image_url_headphone5.jpg",
         "image_url_headphone6.jpg",
         "image_url_headphone7.jpg",
@@ -221,7 +221,7 @@
       "discount": null,
       "average_rating": 4.0,
       "description": "Sweat and water-resistant sport headphones.",
-      "image": [
+      "imageUrls": [
         "image_url_headphone9.jpg",
         "image_url_headphone10.jpg",
         "image_url_headphone11.jpg",
@@ -236,7 +236,7 @@
       "discount": 5,
       "average_rating": 4.3,
       "description": "Headphones with a microphone for high-quality calls.",
-      "image": [
+      "imageUrls": [
         "image_url_headphone13.jpg",
         "image_url_headphone14.jpg",
         "image_url_headphone15.jpg",
@@ -251,7 +251,7 @@
       "discount": null,
       "average_rating": 4.1,
       "description": "Stylish stereo headphones with an elegant design.",
-      "image": [
+      "imageUrls": [
         "image_url_headphone17.jpg",
         "image_url_headphone18.jpg",
         "image_url_headphone19.jpg",
@@ -266,7 +266,7 @@
       "discount": 10,
       "average_rating": 4.4,
       "description": "Bluetooth headphones with long battery life.",
-      "image": [
+      "imageUrls": [
         "image_url_headphone21.jpg",
         "image_url_headphone22.jpg",
         "image_url_headphone23.jpg",
@@ -281,13 +281,13 @@
       "discount": 5,
       "average_rating": 4.6,
       "description": "Extra-large mouse pad for gamers with high-precision surface.",
-      "image": [
+      "imageUrls": [
         "image_url_mousepad1.jpg",
         "image_url_mousepad2.jpg",
         "image_url_mousepad3.jpg",
         "image_url_mousepad4.jpg"
       ],
-      "category_image": "nova_url_da_imagem.jpg"
+      "imageUrl": "https://fsw-store.s3.sa-east-1.amazonaws.com/mousepads.png"
     },
     {
       "id": 20,
@@ -297,7 +297,7 @@
       "discount": null,
       "average_rating": 4.3,
       "description": "Ergonomic mouse pad with wrist support, ideal for long work sessions.",
-      "image": [
+      "imageUrls": [
         "image_url_mousepad5.jpg",
         "image_url_mousepad6.jpg",
         "image_url_mousepad7.jpg",
@@ -312,7 +312,7 @@
       "discount": 10,
       "average_rating": 4.7,
       "description": "Mouse pad with customizable RGB lighting for gamers.",
-      "image": [
+      "imageUrls": [
         "image_url_mousepad9.jpg",
         "image_url_mousepad10.jpg",
         "image_url_mousepad11.jpg",
@@ -327,7 +327,7 @@
       "discount": 5,
       "average_rating": 4.0,
       "description": "Compact and portable mouse pad for use anywhere.",
-      "image": [
+      "imageUrls": [
         "image_url_mousepad13.jpg",
         "image_url_mousepad14.jpg",
         "image_url_mousepad15.jpg",
@@ -342,7 +342,7 @@
       "discount": null,
       "average_rating": 4.5,
       "description": "High-quality mouse pad for professional use.",
-      "image": [
+      "imageUrls": [
         "image_url_mousepad17.jpg",
         "image_url_mousepad18.jpg",
         "image_url_mousepad19.jpg",
@@ -357,7 +357,7 @@
       "discount": null,
       "average_rating": 4.2,
       "description": "Mouse pad with custom print, adds style to your workspace.",
-      "image": [
+      "imageUrls": [
         "image_url_mousepad21.jpg",
         "image_url_mousepad22.jpg",
         "image_url_mousepad23.jpg",
@@ -372,13 +372,13 @@
       "discount": 10,
       "average_rating": 4.5,
       "description": "24-inch LED monitor with high resolution and image quality.",
-      "image": [
+      "imageUrls": [
         "image_url_monitor1.jpg",
         "image_url_monitor2.jpg",
         "image_url_monitor3.jpg",
         "image_url_monitor4.jpg"
       ],
-      "category_image": "nova_url_da_imagem.jpg"
+      "imageUrl": "https://fsw-store.s3.sa-east-1.amazonaws.com/monitors.png"
     },
     {
       "id": 26,
@@ -388,7 +388,7 @@
       "discount": null,
       "average_rating": 4.7,
       "description": "34-inch UltraWide monitor for an immersive experience.",
-      "image": [
+      "imageUrls": [
         "image_url_monitor5.jpg",
         "image_url_monitor6.jpg",
         "image_url_monitor7.jpg",
@@ -403,7 +403,7 @@
       "discount": 5,
       "average_rating": 4.6,
       "description": "27-inch curved monitor with high refresh rates.",
-      "image": [
+      "imageUrls": [
         "image_url_monitor9.jpg",
         "image_url_monitor10.jpg",
         "image_url_monitor11.jpg",
@@ -418,7 +418,7 @@
       "discount": 15,
       "average_rating": 4.8,
       "description": "32-inch 4K monitor for incredible resolution.",
-      "image": [
+      "imageUrls": [
         "image_url_monitor13.jpg",
         "image_url_monitor14.jpg",
         "image_url_monitor15.jpg",
@@ -433,7 +433,7 @@
       "discount": 10,
       "average_rating": 4.7,
       "description": "27-inch gamer monitor with high refresh rate and response time.",
-      "image": [
+      "imageUrls": [
         "image_url_monitor17.jpg",
         "image_url_monitor18.jpg",
         "image_url_monitor19.jpg",
@@ -448,7 +448,7 @@
       "discount": null,
       "average_rating": 4.4,
       "description": "22-inch LCD monitor with a compact and budget-friendly design.",
-      "image": [
+      "imageUrls": [
         "image_url_monitor21.jpg",
         "image_url_monitor22.jpg",
         "image_url_monitor23.jpg",
