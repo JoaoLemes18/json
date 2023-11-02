@@ -191,10 +191,10 @@
       "average_rating": 4.5,
       "description": "Bluetooth headphones with active noise cancellation.",
       "imageUrls": [
-        "image_url_headphone1.jpg",
-        "image_url_headphone2.jpg",
-        "image_url_headphone3.jpg",
-        "image_url_headphone4.jpg"
+        "https://s3-alpha-sig.figma.com/img/25ec/17ec/640ae831921eff231b6e51c7037dbea1?Expires=1699833600&Signature=RskOLs7qe8ZMsv3FAwvvqy4u~oZa9rPCjd2fNPeTtMB6EXCWsSM5S3AZAmfwsSvvFl3ssMbkgywsbWzIGI2ebdbqaGPaOW7bvKyUs2dPtCCndnLAkGhQUf1KRD-3OKLk~VII96MrZYl9mYWemCqL1UeErLC1~raiTzrYcbOEuzH4z00UoYTAF1GX~TB1szxDRGej1NWZTBbD0CCc13mVlWD5r7-0wPX4b1VPed3fydEH7orlq-DmwVa1PHsPOxmCZ2a5DZ~Jm7mq2YHKXwT~ppk6IIMJuu0WVFXrhAQqSG7E1NFJ8YphJX8TsF3TDo-J~QbYk2tsC93y0LuziVTCsg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/dcdd/0fbd/cb02f72b74d9dd17ea703d2f10063bd9?Expires=1699833600&Signature=asBcIxpu2NRwVIRf9BB6wzXfUrDGlEjmG5txERwaYKQyWE5RMk2HHFbpdfYpX3QFCvHhqx81DuniDNorqlW-WxFdqI~0zG-3eFreWiD2bOMyzu9m-v-Lx--OgAujm2HPnuxOv~YXMw--8Gn7ydkxGHzW1bsX6Y9YmWzm6ggi8bOHXGAD1W4YwCXDMaq6~y1RMKB5Kk2fVb8igpSuiih80KRwWP77-urJY~xzYEqe3bEWIriq4B3z-OtWfzLs4a74iKkFYpTNDpG9EqtrlbehjL5WUD7Tfgy-X0p6FbjxCERhLfHpndWsw9ucb8JB43-s9UJAR3BKaVB1sWKq2RzIdQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/696a/b272/56d28639c63446556b30559b82d76c27?Expires=1699833600&Signature=jJVRTolOzKWyutfqExKEeHjjx60T8ygYz0TPcJW1zGQhAjeZtWJhNQrOshuykTimXycchGy5vhgkgPAeJhCHJH4L-IeURjElxvQvZKKmuyf1EFCsuyngtS45DmJzsoWWFSU5ZZDg6ZDls1LVDieKC~OiNuM582hwNmDVFrMdbhv7pd0pFcuP5wx0sOoWZnF0KWot6LhxnzY2uO0WeBlReguhmjvfsv-scTpPtv3-~UTHXawUqzzCQMJVDTNjGkwfWAQgTR4s2qgHk~RSbmqfZGenRFs0FnQZvUoofIsbSNVDXYNIdkQYj0EziTNbwhDYHeBxv~H2kljSGk-PFz6Jig__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/80ed/edf2/c3b4d51202a9ef9f12473efacba9fbe0?Expires=1699833600&Signature=O03x0Jm0WQ1MD0RPRa5B8K2ITrAl9WX1mW8-J7uDIfqcafzeL3SFTZrmapYySNkz7Qi8q7oDdK7slJP1Q123d2wXS96BUf916~LL-LaUm7ncJYVM0b53z21PAKv1aeFvr3ci-7XzJ2b~l7HXJtILSohG05jMzn2cZLdCDyKOwQ2VqTwoluJ9TBP8yPlKW4wrsPA8ZGRpA0-4w0wkvRxin2OvVLw6PNLD3ZRuu2M8uFO05VWZ8M0lgCdxQjmfA-9hyLnWwqbioMOoF0Wjq~W-aQ8zv-Sq8QGHmAJsnC2fgIQape9UOXcK3fVysIMeLnQqbur3sFByVTj3b5DpMWc0Iw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
       ],
       "imageUrl": "https://fsw-store.s3.sa-east-1.amazonaws.com/headphones.png"
     },
@@ -207,10 +207,10 @@
       "average_rating": 4.2,
       "description": "Stereo headphones with high sound quality.",
       "imageUrls": [
-        "image_url_headphone5.jpg",
-        "image_url_headphone6.jpg",
-        "image_url_headphone7.jpg",
-        "image_url_headphone8.jpg"
+        "https://s3-alpha-sig.figma.com/img/a15b/e696/d75b065567e5a062fe1caeb9f6048ce7?Expires=1699833600&Signature=ojUkNRXKIFvFOv0iEqOkI8mdGmuIYyrkA5x21O0au0chXaQlcyKhjnh7AwbDAARqKNh-LrcPSIHvDdLgZxXG48Y20DKSaSiHiuU9ipW-WsRja~GfLSj4IvEbyx~H4OuJ9MJ~rw-0m5MnFQN6cVCLKOkmDfjxDJpR9bVGF8K4HL5ohZuBGosgmRmb9v1QgDl3tLSgW-nn4RFpElnQT8Rk4NcGJVJwfy6JnCrCiMpP7BhbVkpcnaBy0puGIcYEvAhrFKkJ~Webr9yK9CSWW4EL11Ke44BOLjHEehP5nZSxWyRvPN6dyuYDpPrJUW8QGCcvExm6F7kK5Rhd13NhQyAyXQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/fd31/6d27/da3ec817ef5b77f8d089dbbd67f2cf23?Expires=1699833600&Signature=Ciej80P2xDIUdIoJx6DMaoVOvVFXDBrT6XtWbw73HWmT5T2wIv8LIj4nSVjkPt4xmTMkhoahivdNOxo~5natdbJqlsU1zW6rRqDqDgS25dyOsAOq0UOXZZKNPI4dg~NR4FQYjArPYYJuXzRTWMUJ29J1zb6vCLq1mT6T2sachVffne0C4EaMfQCGlS2eNR-n4DTQe~hoNoDRL4G24TjCUiXlOk5OIwKFAb~KLcrhhbxF8HsE5a43qaNrfqelEPzrUlpDiO4ihCfIN0K0SFIkTV9NHECCeGLW8NT5FFsGbSqbS7B8yk9rOViylnuOHhbkN8-YwcovAQyvAXW-kJC3JA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/23ef/9d56/09ee7b14fc6aedde95ab0abd5e4290bf?Expires=1699833600&Signature=HZzTjSsotk9Ey34TxzO3uFhmxLrgM635P8v-t7z9CZ6msN9vTFZV0-6Wmi~tqV-q4NmXQciuKSP2l3ptwkzpMfiHEwe56tAOp6y7Ovr31aKpo~scsIW0HE4DqdGuCR9Qz0ByYGQ~Rxvh7KFIvMVbzEDaK6tEeUxCSqQA0FZpZPAF609-zJ6V-LNwtypRn~IGaQY0eLbiHL~9ltysDmIiVQxTinKPzyAQYW1cuvKBEzJ2i1wD4TRzD0PRmlFZugHrD0vvvIE4Q8fj6Nm32F1qiC8frMH2e3dm5bfCMp6y6Up-TQthGSljgk4oIMtwh4dfXFlB14yIjMO1CLmu3yI9Pg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/b5db/a840/2c4fdad75a4bde8ee6886d170ea8ec3a?Expires=1699833600&Signature=oXdCDGhT6uCmJ3aJdSfO-1A5W7RPmROFm1mRKLS3fWPImPgkArZZv4brt9T3zdlxaiCb5gWJQGvgowl76BSoBWhvYo85owr9glMxh0yhWuUtT8uxifL~6pJ0Km0yGhX2kGzQr73MRSPVcCv41lC3aXp4ju1EqLuf9jZo7L2z~hfCWo-75bnY~4~bm1aPZBM2OodwCgTg0Y8a091ScpxnoUDy~x2rQTf33cOrAr2Xi3WAMtcSLqSCxHmgGd4q9lIXX~H789hYMAfIuvh8ww25auLkIaw3Wnt9TY8jOIj0J8p4tE0R0xruJUq3Dl1NnEVrKokqvB2Se1OAND8wMLAXVw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
       ]
     },
     {
@@ -222,10 +222,10 @@
       "average_rating": 4.0,
       "description": "Sweat and water-resistant sport headphones.",
       "imageUrls": [
-        "image_url_headphone9.jpg",
-        "image_url_headphone10.jpg",
-        "image_url_headphone11.jpg",
-        "image_url_headphone12.jpg"
+        "https://s3-alpha-sig.figma.com/img/bb17/1c7d/25889a36765148928d4020991e448512?Expires=1699833600&Signature=gvsSBjm9zS33j8wjJF4BLj~76klwWaTijG~F1soIsi4-Go8zEEBg754YKUj5AANoWn7xRKeU70UKoffpviCfIxiYvoRghaCQ2JMgIDA2PHQ1UDyU4pojU9jwfBEVIuFmOr9C5DO1NWvQuCiMzIPt87XdD9fYkJQXnofvvbz~UpIvwDueeCL9waNi5hlLAXmqB--vwiLYo8g2jW9vPK9txFqaBM9VYAW22NAWHM8DI8TIFxgCTeykH2PwvXnzCiKSasOGQp0vLlzL4~HtuSP3PQpWAolcfNW7Pw14wySP~M0kfmbLMkemdZV-tCblKqLu7QKPSJoE83GJdj9xcwlZ9Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/39c0/aeee/f9e112e83afe375893e397a091f84de0?Expires=1699833600&Signature=poeCh6-1~c50YPmEZGA2RdbQnXzolhNdswFNs2XkI84AtR9Xuy4ydud349mUBgDO2paNkWz81FS7K9ZTsFhZE4R4wqIQqQpY-1RkmKxsgX6TMVq~SEbMBampJ9El9VJFlwylOPhyHECJF4NWlJ6YPnuqeKthSGF80fudMnzsjtYc~i0hpkT0r0c8GRRqouVRdHHFKXwON34gU2oBhhK6OpRfATNfNPrUoH5iG5tcTaXdp6OxuIcxn8AjbgIo81YpqaXLelmrH2tXc8Zbd1KrQtSlVxksNdY-DlMxsRnJCCmInKqAgmzlBQpiiH-pWnfhFEGDLly778Y5jOh8o1Op-g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/bb4f/bffb/851f896b9aff58460e40af8b4a2ab320?Expires=1699833600&Signature=egcxmDafFIM8NGdNqv~ZH-05XLHj~ub5dltDnsOp7xFCJ6PUEVrOH4IohwOwhXIIt8Ba-L3-e0ZWY2tqMwlr1NfiVTfXJCbfOAhewJf1EOMJ6LPoFYv3blM7PqSSBRKS3Sy6EVHSLWpGtaQVW~Bi9V9V9u670na8D0NpQZ4LdWL70lbbBwQ08QYGIndwpXrAd-JJzsu3qTsD-nGh1p9SmG0YPKra1j~0V-4X1Ng8IDowDe5iW5CGjkTbasGMzn7RuGt~iTNiTOY3WDpy0Y7hXq6bXf0cVz3dcB4GagEsHF3Y~mVYU1pWqwThfSx6PF3djhYgW1utdc4MtZ1QgnU2VA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "https://s3-alpha-sig.figma.com/img/fc86/9922/d293374faa1ae688bb1e081b714a19b1?Expires=1699833600&Signature=c47cwIRddwp8Xx5qTv1U7Zqf~V0M458CGQx9UlL7k3Ep3Qg6O5mLmiB4DcqmisDLSMdlOFdooFdr6GmaiUJ~wSDBR3PqusyliChdcVtonfDSxIlQ6hnWdrwlyPBzdVqDvnELVQ8mD36rkX6JQrGN-FVKYRXVlYH0o9f0Vf7sAuwE2XyZTi7p74MAA9wIpCfZE1qa4IqKkRfZeqqc5cDuwWIhAcQ4Knl127AYuOjroovXX74ix9W-kVHbT1aHl52RHTWaVM14w9SqAb~JqAhOs~~fZrx1MEvDYJqJ1YARM8eHQ1b4LFgEJzpxZqICOk3sTmlBeYZXvsQzZpoTqm0bPQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
       ]
     },
     {
