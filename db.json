@@ -9,10 +9,10 @@
       "average_rating": 4.75,
       "description": "A high-precision gamer mouse with customizable RGB lights.",
       "imageUrls": [
-        "https://s3-alpha-sig.figma.com/img/01b9/0321/6b09d4df5e5f667e7d4e2f61d9046f05?Expires=1699833600&Signature=qlwGWbaGquO0obz5WIdB1OzbXIa8yuceIvRd6H2ByPYI8x-0LgqCfvDqygGeSPI5zMeVuUjK3W1tpxKszSfN-XBY1K8FKQzzrX0WqQwsaQ0SabhZ5hFsMojMPWIIplnh85cw13J~CD8-KkfMKzszNmGdiRBE0C4rtQ1r3x2n5ZH5uYkMxu8TYMbOMpAIhnDm~UHsgUxZj~zDlJjFu~vZSGZzVEHSF2YLYrTueKRpcC748f599uJlor1VyKb9Jx~8SiopHJW5HDAYDryqSnd-YkfEtLKFq0Ptflhy6o9~omOBB3iqFgoN9qGPvhxtGywC3tfZDlS7oEGLoU5B-KKALA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-        "https://s3-alpha-sig.figma.com/img/e8c8/d8a4/62462f9d96239f95328eaf09880d0ab7?Expires=1699833600&Signature=ndM82sEzpCUO9nqDbNb5cTUrwlAUuxtzGSa6I90LW9HySgXKycHFvIp5QCVkt49tgqZMEgnPZfszD1dmDQc4IFThRKbRaJ0XTgbEG~emtHhmGNh-8fq4ET3JIDeEE2-jsPPxF0IvP9xzpsXyOrCKsUKibosP25uhjVoEV5jXA77qaqxohr0fJtIcEsGSTIUnbqWceneAFi~24cRGNAnRIhd1xIlzvEgJMiT7~DoDeZ5KjIOW5Eeu3ObVKlk~pWkPOCTAcYhe9b0oaohJLHmoJfu7hfG1KWNX11c8w4DhUvC~iTXilH0Wt8VE97aD7CRV5ytJ7HQpIvUVe5qbvQzzTQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-        "https://s3-alpha-sig.figma.com/img/0b23/bafd/a5fd55544a6265d1b34237d4fda0c792?Expires=1699833600&Signature=q2UWkMKy5MetoTnndwo8FCEYPKeJsWyufRy0qjyLcE4pb6d49MWKiC6TNLcXd7kGV0e8tJ~KkUsnGSg8FF30mv~fZRvBwnMXJ~LnBQ2CQwoS9CxDFvl2euFaVUukwQPFKWYTLTiKMsyqEf11xxkdv5lFRFEWzX4dcdg6n-rC4QPY7b7ZBnh-9e10CBwHis3p763pqdphS61sgPynU1i2mO5mxGanoEGOYgKpqBg11H5GXi6YNOwu0RPozFlLSqd77QBcUAQ-N1ErVM0v6u~~HWsPr9B622zPDmuGwHXEW6705cQt6h3PsiPyi~C31pR5YspNf9oICwAwOJkBgbTyYg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-        "https://s3-alpha-sig.figma.com/img/cbe6/9553/f1da3497ba2eb511dfdf894964e88945?Expires=1699833600&Signature=G857dpdj6ttbJPRq4B7NwSjfWbchMvGufkVtG4rTMGabMJuoQv~HPgQINycZ6goTo9M7jCeJRfvyuUYijw20RYboUUEhvIuz-J4a7~F2ZurQbfXj~mlZW8rjn7SSrf7MWnBt2sa7D3nTHwNDgPes5s5vux451dMGhvU1hV-IIrn-QfgWiX4WcyAS2u2hAyKGH6qcJhGYE-nkIlbEJ8KRstn~2i2hs~bGzJH5OHBz3CBb1e92Gp9Y0ViFVHlwyLcg~6H3rKl8MogO11iPR3Ol5~4tUN4R6ow13uiswXQi2PeiofZnRw3V77vhBPgEtTNfuD495pP~XwzsXueqatmsVg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        "https://fsw-store.s3.sa-east-1.amazonaws.com/01_mx-master-3s.png",
+        "https://fsw-store.s3.sa-east-1.amazonaws.com/02_mx-master-3s.png",
+        "https://fsw-store.s3.sa-east-1.amazonaws.com/03_mx-master-3s.png",
+        "https://fsw-store.s3.sa-east-1.amazonaws.com/04_mx-master-3s.png"
       ],
       "imageUrl": "https://fsw-store.s3.sa-east-1.amazonaws.com/mouses.png"
     },
